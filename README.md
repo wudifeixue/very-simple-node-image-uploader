@@ -1,7 +1,7 @@
 # A very simple Node image loader
-It just change your uploaded image into test.gif and then display it out
+It rename your uploaded image into test.gif and then display it  
 
 # How to start
-use commandline run  
-`node anotherIndex`
-go to http://localhost:8888  
+Go to your favorite command line.  
+```node anotherIndex```  
+Then go to http://localhost:8888  
